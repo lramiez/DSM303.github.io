@@ -1,0 +1,67 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+}
+
+body{
+	text-align: center;
+	background-color: #000000;
+
+}
+#contenedor{
+	width: 1400px;
+	text-align: center;
+	margin: 60px 170px;
+	padding: 20´px;
+	background-color: #abacad;
+	height: 1000px;
+}
+#encabezado{
+	width: 1200px;
+	height: 25%;
+	background-color: yellowgreen;
+
+}
+#imagen{
+	width: 1200px;
+	padding: 20px;
+}
+#menu{
+	text-align: center;
+	font-family: broadway;
+	font-size: 32px;
+	font-family: "oswald";
+}
+li{
+	display: inline-block;
+	list-style-type: none;
+	width: 200px;
+	background-color: #d56b7a;
+	height: 25px;
+	padding: 15px;
+	color: #8d0f8a;
+	margin: 5px;
+	border-radius: 10px;
+}
+#seccion{
+	
+	width: 650px;
+	
+}
+#izq{
+	width: 300px;
+	float: left;
+	background-color: #453623;
+	
+}
+#der{
+	width: 250px;
+	float: right;
+	background-color: #abcdef;
+	
+}
+img{
+	height: 70%;
+
+}
